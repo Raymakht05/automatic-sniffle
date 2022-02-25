@@ -1,0 +1,22 @@
+INSTRUCTIONS
+
+1) Make a discord Bot 
+
+How To:
+
+https://www.youtube.com/watch?v=Gqurhm2QxA0
+
+2) Go to repl.it and make a Python repl.
+
+3) In main.py, paste the main py.txt into that file#
+
+4) Make a new file then name it webserver py.txt and paste the code from webserver py.txt
+
+5) Run the code and then boom, ur bot is active
+
+6) type .kaboom to start the bot and then .STOP to stop the code
+
+
+Any questions dm me on discord 
+
+Bill Cypher#1785
